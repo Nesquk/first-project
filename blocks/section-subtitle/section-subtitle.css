@@ -1,0 +1,11 @@
+.section-subtitle{
+    display: flex;
+    justify-content:center;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    max-width: 60%;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+  }
